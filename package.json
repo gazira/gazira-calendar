@@ -1,0 +1,28 @@
+{
+  "name": "gazira-calendar",
+  "version": "0.0.1",
+  "main": "index.js",
+  "description": "calendar",
+  "keywords": [
+    "jquery",
+    "calendar",
+    "arale"
+  ],
+  "spm": {
+    "main": "index.js",
+    "dependencies": {
+      "jquery": "1.11.1",
+      "arale-events": "1.2.0",
+      "arale-widget": "1.2.0",
+      "gazira-wheel": "0.0.1",
+      "gazira-date": "0.0.4",
+      "arale-overlay": "1.2.0"
+    },
+    "devDependencies": {
+    },
+    "tests": "",
+    "ignore": [
+    ],
+    "buildArgs": ""
+  }
+}

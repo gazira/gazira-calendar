@@ -1,0 +1,26 @@
+.sample {
+    padding: 20px;
+    border-bottom: 1px solid #005580;
+    min-height: 300px;
+}
+
+.cal-input {
+  margin: 20px;
+}
+
+#show1 {
+    height: 200px;
+}
+
+.calendar-item {
+  float: left;
+}
+
+#show18 {
+  border: 1px solid #ddd;
+  margin: 50px;
+  padding: 20px;
+  width: 450px;
+  height: 200px;
+  position: absolute;
+}
